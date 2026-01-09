@@ -140,7 +140,7 @@ button, .btn {
     width: 90%;
     max-width: var(--container-max-width);
     margin: 0 auto;
-    padding: var(--spacing-m) 0;
+    padding: 0.6rem 0;
 }
 
 .section-header {
@@ -214,11 +214,11 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 0;
+    padding: 0.6rem 0;
 }
 
 .logo a {
-    font-size: var(--fs-m);
+    font-size: 1.25rem;
     font-weight: 700;
     color: var(--text-primary);
     display: flex;
